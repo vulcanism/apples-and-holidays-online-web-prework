@@ -91,6 +91,9 @@ def all_holidays_with_bbq(holiday_hash)
         
         if supply == "BBQ"
           holiday << array
+        end
+      end
+    end
 
 end
 
